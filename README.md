@@ -4,6 +4,11 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 ...............
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.GIF/l4FAP1eJd3062WfEA1.gif" alt="Coding animation" width="100%"/> 
 </p>
