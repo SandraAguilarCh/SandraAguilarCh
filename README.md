@@ -1,4 +1,6 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.GIF/l4FAP1eJd3062WfEA1.gif" alt="Coding animation" width="100%"/> 
+</p>
 <h1 align="center">Hello 👋,I am a systems engineering student🌟 </h1>
 <h3 align="center">My main area of ​​interest is **Compliance**</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
@@ -35,3 +37,7 @@
 </p>
 
 <hr width="36
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.GIF/3ornk3SGkS27Sj5d8A/giphy.gif" alt="Sparkle divider" width="50%"/>
+</p>
