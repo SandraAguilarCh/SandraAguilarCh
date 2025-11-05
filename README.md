@@ -38,5 +38,4 @@
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a " height="50" width="210" alt="scar2001" /></a></p>
+
